@@ -137,10 +137,44 @@ def geojson():
 @app.get("/api/mapa")
 def mapa(indicador: str = Query("indice_master_v12")):
     df = carregar_csv(BASE_MASTER)
+
     if df.empty:
         return {"status": "sem_base", "dados": []}
+
     if indicador not in df.columns:
-        indicador = "indice_consolidado" if "indice_consolidado" in df.columns else None
-    campos = ["CIDADE","cd_mun","cluster_v9","prioridade_agenda","expectativa_total","agenda_score","score_municipal_v8","eficiencia_eleitoral","indice_consolidado","indice_master_v12","isd_v11","classificacao_isd","acao_recomendada"]
-    campos = [c for c in campos if c in df.columns]
-    return {"status": "ok", "indicador": indicador, "dados": normalizar_df(df[campos]).to_dict(orient="records")}
+        if "indice_consolidado" in df.columns:
+            indicador = "indice_consolidado"
+        else:
+            indicador = None
+
+    campos = [
+        "CIDADE",
+        "cd_mun",
+        "cluster_v9",
+        "prioridade_agenda",
+        "expectativa_total",
+        "agenda_score",
+        "score_municipal_v8",
+        "eficiencia_eleitoral",
+        "indice_consolidado",
+        "indice_master_v12",
+        "isd_v11",
+        "classificacao_isd",
+        "acao_recomendada",
+    ]
+
+    campos_existentes = [c for c in campos if c in df.columns]
+
+    out = df[campos_existentes].copy()
+
+    for col in out.columns:
+        if col not in ["CIDADE", "cluster_v9", "prioridade_agenda", "classificacao_isd", "acao_recomendada"]:
+            out[col] = pd.to_numeric(out[col], errors="ignore")
+
+    out = out.where(pd.notnull(out), None)
+
+    return {
+        "status": "ok",
+        "indicador": indicador,
+        "dados": out.to_dict(orient="records"),
+    }
