@@ -1,0 +1,11 @@
+variavel,valor,fonte_modelo,descricao
+sentimento_positivo,74,analise_publica,presenca institucional positiva e narrativa de crescimento
+sentimento_neutro,58,analise_publica,volume de menções sem polarização forte
+sentimento_negativo,28,analise_publica,ruído oposicionista moderado
+coerencia_narrativa,68,analise_publica,narrativa relativamente consistente
+volatilidade_partidaria,62,analise_publica,mudança partidária recente reduz estabilidade
+ataques_oposicao,34,analise_publica,oposição presente mas não dominante
+denuncias_publicas,26,analise_publica,existência de material público adverso
+persistencia_tema,28,analise_publica,tema negativo ainda não dominante
+score_sentimento,63.3,formula_modelo,resultado ponderado do bloco de sentimento
+score_risco_ajustado,70.3,formula_modelo,resultado ponderado do bloco de risco

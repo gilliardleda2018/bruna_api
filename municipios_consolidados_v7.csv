@@ -1,0 +1,101 @@
+CIDADE,expectativa_total,total_liderancas,peso_medio_liderancas,forca_media_local,score_medio,score_maximo,score_municipal_v6,cidade_norm,prefeito_apoia,sentimento_local_txt,distancia_tuntum_km,bonus_prefeito,score_proximidade,score_sentimento_local,fator_ancora_v7,score_municipal_v7,prioridade_v7
+Tuntum,10000.0,1,100.0,100.0,100.0,100.0,100.0,tuntum,1,alto,0.0,15,100,85,100,84.25,A
+Presidente Dutra,1500.0,1,70.0,80.0,76.5,76.5,75.6,presidente dutra,0,medio,75.0,0,85,60,75,62.42999999999999,C
+Paraibano,500.0,1,100.0,100.0,85.0,85.0,94.0,paraibano,0,medio,250.0,0,55,60,50,58.45,C
+Mirador,500.0,1,100.0,100.0,85.0,85.0,94.0,mirador,0,medio,250.0,0,55,60,50,58.45,C
+Estreito,1500.0,1,100.0,100.0,85.0,85.0,94.0,estreito,0,medio,250.0,0,55,60,50,58.45,C
+Jenipapo dos Vieiras,700.0,1,100.0,100.0,85.0,85.0,94.0,jenipapo dos vieiras,0,medio,250.0,0,55,60,50,58.45,C
+Jatobá,1200.0,1,100.0,100.0,85.0,85.0,94.0,jatobá,0,medio,250.0,0,55,60,50,58.45,C
+Esperantinópolis,800.0,1,100.0,100.0,85.0,85.0,94.0,esperantinópolis,0,medio,250.0,0,55,60,50,58.45,C
+Grajaú,1000.0,1,100.0,100.0,85.0,85.0,94.0,grajaú,0,medio,250.0,0,55,60,50,58.45,C
+Apicum-Açu,900.0,1,100.0,100.0,85.0,85.0,94.0,apicum-açu,0,medio,250.0,0,55,60,50,58.45,C
+Gonçalves Dias,1200.0,1,100.0,100.0,85.0,85.0,94.0,gonçalves dias,0,medio,250.0,0,55,60,50,58.45,C
+Gov. Eugênio Barros,200.0,1,100.0,100.0,85.0,85.0,94.0,gov. eugênio barros,0,medio,250.0,0,55,60,50,58.45,C
+Penalva,500.0,1,100.0,100.0,85.0,85.0,94.0,penalva,0,medio,250.0,0,55,60,50,58.45,C
+Santa Filomena do MA,1000.0,1,100.0,100.0,85.0,85.0,94.0,santa filomena do ma,0,medio,250.0,0,55,60,50,58.45,C
+Santa Helena,350.0,1,100.0,100.0,85.0,85.0,94.0,santa helena,0,medio,250.0,0,55,60,50,58.45,C
+Trizidela do Vale,300.0,1,100.0,100.0,85.0,85.0,94.0,trizidela do vale,0,medio,250.0,0,55,60,50,58.45,C
+São Luís Gonzaga do MA,500.0,1,100.0,100.0,85.0,85.0,94.0,são luís gonzaga do ma,0,medio,250.0,0,55,60,50,58.45,C
+Capinzal,,1,100.0,100.0,85.0,85.0,94.0,capinzal,0,medio,250.0,0,55,60,50,58.45,C
+Dom Pedro,2000.0,2,52.5,57.5,62.5,76.5,63.6,dom pedro,0,medio,135.0,0,70,60,75,56.58,C
+Morros,600.0,1,100.0,80.0,78.0,78.0,85.2,morros,0,medio,250.0,0,55,60,50,55.81,C
+Serrano do Maranhão,200.0,1,100.0,80.0,78.0,78.0,85.2,serrano do maranhão,0,medio,250.0,0,55,60,50,55.81,C
+Imperatriz,500.0,1,70.0,100.0,74.5,74.5,80.8,imperatriz,0,medio,250.0,0,55,60,50,54.489999999999995,C
+Bacabal,,1,70.0,100.0,74.5,74.5,80.8,bacabal,0,medio,250.0,0,55,60,50,54.489999999999995,C
+São Domingos do MA,2000.0,1,70.0,100.0,74.5,74.5,80.8,são domingos do ma,0,medio,250.0,0,55,60,50,54.489999999999995,C
+São João dos Patos,1500.0,1,70.0,100.0,74.5,74.5,80.8,são joão dos patos,0,medio,250.0,0,55,60,50,54.489999999999995,C
+São José de Ribamar,700.0,1,70.0,100.0,74.5,74.5,80.8,são josé de ribamar,0,medio,250.0,0,55,60,50,54.489999999999995,C
+Icatu,800.0,1,70.0,100.0,74.5,74.5,80.8,icatu,0,medio,250.0,0,55,60,50,54.489999999999995,C
+Turiaçu,500.0,1,70.0,80.0,67.5,67.5,72.0,turiaçu,0,medio,250.0,0,55,60,50,51.849999999999994,C
+Mata Roma,450.0,1,70.0,80.0,67.5,67.5,72.0,mata roma,0,medio,250.0,0,55,60,50,51.849999999999994,C
+Anajatuba,500.0,1,70.0,80.0,67.5,67.5,72.0,anajatuba,0,medio,250.0,0,55,60,50,51.849999999999994,C
+Pirapemas,500.0,1,70.0,80.0,67.5,67.5,72.0,pirapemas,0,medio,250.0,0,55,60,50,51.849999999999994,C
+Tufilândia,400.0,1,70.0,80.0,67.5,67.5,72.0,tufilândia,0,medio,250.0,0,55,60,50,51.849999999999994,C
+Timon,1500.0,1,70.0,80.0,67.5,67.5,72.0,timon,0,medio,250.0,0,55,60,50,51.849999999999994,C
+Coroatá,200.0,1,70.0,80.0,67.5,67.5,72.0,coroatá,0,medio,250.0,0,55,60,50,51.849999999999994,C
+Amarante do MA,1500.0,1,70.0,80.0,67.5,67.5,72.0,amarante do ma,0,medio,250.0,0,55,60,50,51.849999999999994,C
+Governador Archer,1000.0,1,100.0,35.0,62.25,62.25,65.4,governador archer,0,medio,250.0,0,55,60,50,49.870000000000005,D
+Bacabeira,300.0,1,100.0,35.0,62.25,62.25,65.4,bacabeira,0,medio,250.0,0,55,60,50,49.870000000000005,D
+Nina Rodrigues,100.0,1,100.0,35.0,62.25,62.25,65.4,nina rodrigues,0,medio,250.0,0,55,60,50,49.870000000000005,D
+Barra do Corda,1500.0,1,35.0,35.0,48.5,48.5,40.400000000000006,barra do corda,0,medio,115.0,0,70,60,75,49.620000000000005,D
+Presidente Sarney,100.0,1,70.0,60.0,60.5,60.5,63.2,presidente sarney,0,medio,250.0,0,55,60,50,49.21,D
+Maracaçumé,300.0,1,70.0,60.0,60.5,60.5,63.2,maracaçumé,0,medio,250.0,0,55,60,50,49.21,D
+Peri Mirim,200.0,1,70.0,60.0,60.5,60.5,63.2,peri mirim,0,medio,250.0,0,55,60,50,49.21,D
+Senador Alexandre Costa,300.0,1,70.0,60.0,60.5,60.5,63.2,senador alexandre costa,0,medio,250.0,0,55,60,50,49.21,D
+São João do Soter,200.0,1,70.0,60.0,60.5,60.5,63.2,são joão do soter,0,medio,250.0,0,55,60,50,49.21,D
+Vargem Grande,300.0,1,70.0,60.0,60.5,60.5,63.2,vargem grande,0,medio,250.0,0,55,60,50,49.21,D
+Amapá do Maranhão,300.0,1,70.0,60.0,60.5,60.5,63.2,amapá do maranhão,0,medio,250.0,0,55,60,50,49.21,D
+Carutapera,200.0,1,70.0,60.0,60.5,60.5,63.2,carutapera,0,medio,250.0,0,55,60,50,49.21,D
+Coelho Neto,150.0,1,70.0,60.0,60.5,60.5,63.2,coelho neto,0,medio,250.0,0,55,60,50,49.21,D
+Bacuri,500.0,1,70.0,60.0,60.5,60.5,63.2,bacuri,0,medio,250.0,0,55,60,50,49.21,D
+Itapecuru mirim,250.0,1,70.0,60.0,60.5,60.5,63.2,itapecuru mirim,0,medio,250.0,0,55,60,50,49.21,D
+Paço do Lumiar,100.0,1,70.0,60.0,60.5,60.5,63.2,paço do lumiar,0,medio,250.0,0,55,60,50,49.21,D
+Olho D´agua das Cunhas,150.0,1,65.0,60.0,58.75,58.75,61.0,olho d´agua das cunhas,0,medio,250.0,0,55,60,50,48.55,D
+Pedreiras,300.0,1,65.0,60.0,58.75,58.75,61.0,pedreiras,0,medio,250.0,0,55,60,50,48.55,D
+Arari,100.0,1,65.0,60.0,58.75,58.75,61.0,arari,0,medio,250.0,0,55,60,50,48.55,D
+Viana,200.0,1,65.0,60.0,58.75,58.75,61.0,viana,0,medio,250.0,0,55,60,50,48.55,D
+Lago da Pedra,1500.0,2,52.5,57.5,53.5,67.5,60.0,lago da pedra,0,medio,250.0,0,55,60,50,48.25,D
+Fortaleza dos Nogueiras,300.0,1,35.0,80.0,55.25,55.25,56.6,fortaleza dos nogueiras,0,medio,250.0,0,55,60,50,47.230000000000004,D
+Buriticupu,500.0,1,35.0,80.0,55.25,55.25,56.6,buriticupu,0,medio,250.0,0,55,60,50,47.230000000000004,D
+Pindaré-Mirim,500.0,1,35.0,80.0,55.25,55.25,56.6,pindaré-mirim,0,medio,250.0,0,55,60,50,47.230000000000004,D
+Fortuna,100.0,1,70.0,35.0,51.75,51.75,52.2,fortuna,0,medio,250.0,0,55,60,50,45.91,D
+Bom Jardim,1000.0,1,70.0,35.0,51.75,51.75,52.2,bom jardim,0,medio,250.0,0,55,60,50,45.91,D
+Boa Vista do Gurupi,100.0,1,70.0,35.0,51.75,51.75,52.2,boa vista do gurupi,0,medio,250.0,0,55,60,50,45.91,D
+Luís Domingues,100.0,1,70.0,35.0,51.75,51.75,52.2,luís domingues,0,medio,250.0,0,55,60,50,45.91,D
+Governador Luiz Rocha,200.0,1,70.0,35.0,51.75,51.75,52.2,governador luiz rocha,0,medio,250.0,0,55,60,50,45.91,D
+Paulo Ramos,800.0,1,70.0,35.0,51.75,51.75,52.2,paulo ramos,0,medio,250.0,0,55,60,50,45.91,D
+Buritirana,250.0,1,70.0,35.0,51.75,51.75,52.2,buritirana,0,medio,250.0,0,55,60,50,45.91,D
+Arame,1000.0,1,65.0,35.0,50.0,50.0,50.0,arame,0,medio,250.0,0,55,60,50,45.25,D
+Monção,,1,65.0,35.0,50.0,50.0,50.0,monção,0,medio,250.0,0,55,60,50,45.25,D
+Palmeirândia,100.0,1,65.0,35.0,50.0,50.0,50.0,palmeirândia,0,medio,250.0,0,55,60,50,45.25,D
+João Lisboa,150.0,1,35.0,35.0,39.5,39.5,36.8,joão lisboa,0,medio,250.0,0,55,60,50,41.29,D
+Pres. Juscelino ,100.0,1,35.0,35.0,39.5,39.5,36.8,pres. juscelino,0,medio,250.0,0,55,60,50,41.29,D
+Joselândia,350.0,1,35.0,35.0,39.5,39.5,36.8,joselândia,0,medio,250.0,0,55,60,50,41.29,D
+Pastos Bons,250.0,1,35.0,35.0,39.5,39.5,36.8,pastos bons,0,medio,250.0,0,55,60,50,41.29,D
+Gov. Nunes Freire,100.0,1,35.0,35.0,39.5,39.5,36.8,gov. nunes freire,0,medio,250.0,0,55,60,50,41.29,D
+Pinheiro,100.0,1,35.0,35.0,39.5,39.5,36.8,pinheiro,0,medio,250.0,0,55,60,50,41.29,D
+Vitorino Freire,300.0,1,35.0,35.0,39.5,39.5,36.8,vitorino freire,0,medio,250.0,0,55,60,50,41.29,D
+Fernando Falcão,1000.0,1,35.0,35.0,39.5,39.5,36.8,fernando falcão,0,medio,250.0,0,55,60,50,41.29,D
+Ribamar Fiquene,150.0,1,35.0,35.0,39.5,39.5,36.8,ribamar fiquene,0,medio,250.0,0,55,60,50,41.29,D
+Ribeirãozinho/ Edison Lobão,600.0,1,35.0,35.0,39.5,39.5,36.8,ribeirãozinho/ edison lobão,0,medio,250.0,0,55,60,50,41.29,D
+Lagoa do Mato,300.0,1,35.0,35.0,39.5,39.5,36.8,lagoa do mato,0,medio,250.0,0,55,60,50,41.29,D
+Santa Inês,200.0,1,35.0,35.0,39.5,39.5,36.8,santa inês,0,medio,250.0,0,55,60,50,41.29,D
+Miranda do Norte,150.0,1,35.0,35.0,39.5,39.5,36.8,miranda do norte,0,medio,250.0,0,55,60,50,41.29,D
+Montes Altos,100.0,1,35.0,35.0,39.5,39.5,36.8,montes altos,0,medio,250.0,0,55,60,50,41.29,D
+São Benedito,100.0,1,35.0,35.0,39.5,39.5,36.8,são benedito,0,medio,250.0,0,55,60,50,41.29,D
+Lago Verde,600.0,1,35.0,35.0,39.5,39.5,36.8,lago verde,0,medio,250.0,0,55,60,50,41.29,D
+Milagres do Maranhão,700.0,1,35.0,35.0,39.5,39.5,36.8,milagres do maranhão,0,medio,250.0,0,55,60,50,41.29,D
+Santa Rita,,0,35.0,35.0,39.5,39.5,36.8,santa rita,0,medio,250.0,0,55,60,50,41.29,D
+Santo Antônio dos Lopes,250.0,1,35.0,35.0,39.5,39.5,36.8,santo antônio dos lopes,0,medio,250.0,0,55,60,50,41.29,D
+S. Raimundo das Mangabeiras,1250.0,1,35.0,35.0,39.5,39.5,36.8,s. raimundo das mangabeiras,0,medio,250.0,0,55,60,50,41.29,D
+Senador La Rocque,500.0,1,35.0,35.0,39.5,39.5,36.8,senador la rocque,0,medio,250.0,0,55,60,50,41.29,D
+Anapurus,400.0,1,35.0,35.0,39.5,39.5,36.8,anapurus,0,medio,250.0,0,55,60,50,41.29,D
+São Bernardo,100.0,1,35.0,35.0,39.5,39.5,36.8,são bernardo,0,medio,250.0,0,55,60,50,41.29,D
+Açailândia,500.0,1,35.0,35.0,39.5,39.5,36.8,açailândia,0,medio,250.0,0,55,60,50,41.29,D
+São João Batista,200.0,1,35.0,35.0,39.5,39.5,36.8,são joão batista,0,medio,250.0,0,55,60,50,41.29,D
+Bom Jesus das Selvas,600.0,1,35.0,35.0,39.5,39.5,36.8,bom jesus das selvas,0,medio,250.0,0,55,60,50,41.29,D
+São Luís,,0,35.0,35.0,39.5,39.5,36.8,são luís,0,medio,250.0,0,55,60,50,41.29,D
+Chapadinha,500.0,1,35.0,35.0,39.5,39.5,36.8,chapadinha,0,medio,250.0,0,55,60,50,41.29,D
+São Vicente Ferrer,600.0,1,35.0,35.0,39.5,39.5,36.8,são vicente ferrer,0,medio,250.0,0,55,60,50,41.29,D
+Cândido Mendes,100.0,1,35.0,30.0,37.75,37.75,34.6,cândido mendes,0,medio,250.0,0,55,60,50,40.63,D
+Codó,200.0,1,35.0,30.0,37.75,37.75,34.6,codó,0,medio,250.0,0,55,60,50,40.63,D

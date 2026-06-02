@@ -1,0 +1,11 @@
+{
+    "mae_regressao": 350.705,
+    "accuracy_classificacao": 0.96,
+    "score_sentimento_global": 63.3,
+    "score_risco_global": 70.3,
+    "meta_campanha": 60670.0,
+    "previsao_ia_total": 51940.075000000004,
+    "cenario_conservador_total": 46746.067500000005,
+    "cenario_realista_total": 51940.075000000004,
+    "cenario_forte_total": 59731.08624999999
+}
